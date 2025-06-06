@@ -183,5 +183,3 @@ Las salidas proporcionan información útil sobre los recursos desplegados:
 * **Optimización de Caché**: Los `ordered_cache_behavior` permiten una gran flexibilidad. Planifica cuidadosamente tus patrones de ruta y políticas de caché para optimizar el rendimiento y reducir los costos de CloudFront.
 * **Control de Versiones en S3**: La habilitación del control de versiones en S3 es una buena práctica, pero ten en cuenta que puede aumentar el almacenamiento y los costos asociados.
 * **Observabilidad**: Se recomienda monitorear las métricas de CloudWatch generadas por CloudFront y WAF para observar el tráfico y la efectividad de las reglas de seguridad.
-
-Este README.md proporciona una visión general completa del código de Terraform, facilitando su comprensión, despliegue y mantenimiento.
